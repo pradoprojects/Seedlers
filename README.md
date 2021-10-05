@@ -1,7 +1,7 @@
 # Seedlers [In progress]
 🍅🥕🥔 This is an ongoing project to develop the prototypes for an app that will let gardeners that allows gardners to connect and share seeds/cuttings and tips of their plants with other gardeners. 
 
-##Empathising phase 
+## Empathising phase 
 
 ### 09/25/2021
 Elaborated the first version of survey questions. Ran a dry-run test with some neighbors to fine-tune the questions.
