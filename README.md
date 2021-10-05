@@ -14,6 +14,5 @@ Setup a Google Form to make it available online. Started recruiting online volun
 
 ## 10/02/2021
 Search for potential interviewees in person.
-[Survey in CostCo](https://github.com/pradoprojects/Seedlers/blob/main/LiveSurvey.png)
-
+![Survey in CostCo](https://github.com/pradoprojects/Seedlers/blob/main/LiveSurvey.png)
 
