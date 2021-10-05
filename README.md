@@ -6,7 +6,7 @@
 ### 09/25/2021
 Elaborated the first version of survey questions. Ran a dry-run test with some neighbors to get some insight and fine-tune the questions.
 
-### 09/25/2021
+### 09/26/2021
 Setup the project in Asana
 
 ### 09/29/2021 
