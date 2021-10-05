@@ -1,4 +1,4 @@
-# Seedlers [In progress]
+# Seedlers App [In progress]
 🍅🥕🥔 This is an ongoing project to develop the prototypes for an app that will let gardeners that allows gardners to connect and share seeds/cuttings and tips of their plants with other gardeners. 
 
 ## Empathising phase 
