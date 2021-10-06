@@ -14,7 +14,8 @@ Setup a Google Form to make it available online. Started recruiting online volun
 https://docs.google.com/forms/d/e/1FAIpQLSc06PteuH4msio_GrgMWsSAKQ4AUceDDeViGrUwp0ENCsGckw/viewform
 
 ### 10/02/2021
-Went to places with potential volunteers (people shopping at CostCo) to obtain more answers and insights.
+
+Look for potential volunteers in person to obtain more answers and insights.
 
 ![Survey in CostCo](https://github.com/pradoprojects/Seedlers/blob/main/LiveSurvey.png)
 
