@@ -50,25 +50,28 @@ Built the Sign-up/Sign-in flow.
 Built the Seedlets flow.
 
 ### 10/16/2021
-Built the Seedlers flow.
-
-### 10/16/2021
-Built the Plant-Sitting flow.
+Built the Seedlers flow and Plant-Sitting flow.
 
 ### 10/17/2021
+Built the personas to guide the wireframe definition
+
+### 10/18/2021
 Reviewed the sign-up/sign-in flow and built the wireframes for them.
 
 ### 10/20/2021
-Built the Wireframes for Seedlets flow.
+Built the Wireframes for Seedlets flow and started to work in the logo.
 
 ### 10/21/2021
-Built the Wireframes for Seedlers flow.
+Built the Wireframes for Seedlers flow and made refinements in the logo.
 
 ### 10/23/2021
 Reviewed the Seedlets from and Built the Wireframes for Seedlets flow.
 
+### 10/24/2021
+New refinements in the logo and build the landing page wireframe.
+
 ### 10/27/2021
-Built the Wireframes for Plant-Sitting flow.
+Built the Wireframes for Plant-Sitting flow. 
 
 ### 10/27/2021
 Built the Presentation for Demo Day
