@@ -40,7 +40,7 @@ Summarized the main problems to be solved based in the pain points.
 ### 10/13/2021
 Built the Effort X Impact chart.
 
-### 10/15/2021
+### 10/13/2021
 Built the Features List.
 
 ### 10/14/2021
