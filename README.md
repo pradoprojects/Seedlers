@@ -76,5 +76,8 @@ Built the Wireframes for Plant-Sitting flow.
 ### 10/27/2021
 Built the Presentation for Demo Day
 
+### 10/29/2021
+Presentation day. Link: https://youtu.be/H3xxE3uzFQI?t=1411
+
 
 
