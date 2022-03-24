@@ -25,8 +25,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSc06PteuH4msio_GrgMWsSAKQ4AUceDDeViGrUw
 
 ### 10/02/2021
 Look for potential volunteers in person to obtain more answers and insights.
-![Survey in CostCo](https://github.com/pradoprojects/Seedlers/blob/main/LiveSurvey.png)
 
+<div align="center">                                                             
+  <img height="50%" width="50%" src="https://github.com/pradoprojects/Seedlers/blob/main/LiveSurvey.png" alt="Seedlers Logo">
+</div>  
 
 ### 10/08/2021
 Coded the survey and interviews answers into Miro Board notes.
