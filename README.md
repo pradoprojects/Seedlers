@@ -1,4 +1,14 @@
 # 📱 → 🥕 | Seedlers App [In progress]
+
+<br/>
+<div align="center">                                                             
+  <img height="50%" width="50%" src="https://github.com/pradoprojects/pradoprojects.github.io/blob/main/Seedlerslogo.png" alt="Seedlers Logo">
+</div>  
+<br/>
+
+<section>
+<div align="justify">
+<br/>
 This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share seeds/cuttings/ tips of their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
 
 ## Empathising phase
@@ -81,3 +91,6 @@ https://youtu.be/H3xxE3uzFQI?t=2906
 
 #### Personas
 https://github.com/pradoprojects/Seedlers/blob/main/PersonasSeedlers.pdf
+
+</div>
+</section>
