@@ -14,7 +14,7 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 ## Empathising phase
 
 ### 09/25/2021
-Elaborated the first version of survey questions. Ran a dry-run test with some neighbors to get some insight and fine-tune the questions.
+Elaborated the first version of survey questions. Ran a dry-run test with neighbors to get some insight and fine-tune the questions.
 
 ### 09/26/2021
 Setup the project in Asana
