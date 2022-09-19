@@ -14,13 +14,13 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 ### 10/29/2021
 
 #### Presentation day
-Link: https://youtu.be/H3xxE3uzFQI?t=1411
+  https://youtu.be/H3xxE3uzFQI?t=1411
 
 #### Comments start at minute 48:26
-https://youtu.be/H3xxE3uzFQI?t=2906
+  https://youtu.be/H3xxE3uzFQI?t=2906
 
 #### Personas
-https://github.com/pradoprojects/Seedlers/blob/main/PersonasSeedlers.pdf
+  https://github.com/pradoprojects/Seedlers/blob/main/PersonasSeedlers.pdf
 
 ### 10/27/2021
 Built the Presentation for Demo Day
