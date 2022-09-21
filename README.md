@@ -16,6 +16,9 @@ This is an ongoing UX project to design an app that will let plants enthusiasts 
 #### Presentation day
   https://youtu.be/H3xxE3uzFQI?t=1411
 
+#### Low-Fidelity Prototype
+  https://www.figma.com/file/9uJ68rIGDXhyfjyaZo3mL1/Seedlers?node-id=0%3A1
+
 #### Comments start at minute 48:26
   https://youtu.be/H3xxE3uzFQI?t=2906
 
