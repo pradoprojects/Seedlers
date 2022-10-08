@@ -9,7 +9,7 @@
 <section>
 <div>
 <br/>
-This is an ongoing UX project to design an app that will let plants enthusiasts connect to each other and share cuttings/events/tips about their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities that share a common interest in plants.
+This is an ongoing UX project to design an app that will let plant enthusiasts connect and share cuttings/events/tips about their plants with other gardeners. I proposed it as a final project while participating in Reskill Americans UX Bootcamp. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities with a common interest in plants.
 
 ### 10/29/2021
 
