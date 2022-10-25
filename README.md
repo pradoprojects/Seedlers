@@ -24,6 +24,9 @@ This is an ongoing UX project to design an app that will let plant enthusiasts c
 
 #### Personas
   https://github.com/pradoprojects/Seedlers/blob/main/PersonasSeedlers.pdf
+  
+#### Miro Board
+  https://miro.com/app/board/o9J_ltb4wlM=/?share_link_id=487311014111
 
 ### 10/27/2021
 Built the Presentation for Demo Day
