@@ -1,4 +1,4 @@
-# 📱 → 🥕 | Seedlers App [In progress]
+# 📱 → 🥕 | Seedlers App
 
 <br/>
 <div align="center">                                                             
