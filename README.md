@@ -19,8 +19,8 @@ This is an ongoing UX project to design an app that will let plant enthusiasts c
 #### Low-Fidelity Prototype
   https://www.figma.com/file/9uJ68rIGDXhyfjyaZo3mL1/Seedlers?node-id=0%3A1
 
-#### Comments start at minute 48:26
-  https://youtu.be/H3xxE3uzFQI?t=2906
+<!-- #### Comments start at minute 48:26
+  https://youtu.be/H3xxE3uzFQI?t=2906 -->
 
 #### Personas
   https://github.com/pradoprojects/Seedlers/blob/main/PersonasSeedlers.pdf
