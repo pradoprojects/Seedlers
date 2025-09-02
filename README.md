@@ -9,12 +9,12 @@
 <section>
 <div>
 <br/>
-This is an ongoing UX project to design an app that will let plant enthusiasts connect and share cuttings/events/tips about their plants with other gardeners. I proposed it as a final project while participating in Reskill Americans UX Bootcamp. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities with a common interest in plants.
+This is an ongoing UX project to design an app that will let plant enthusiasts connect and share cuttings/events/tips about their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities with a common interest in plants.
 
 ### 10/29/2021
 
-#### Presentation day
-  https://youtu.be/H3xxE3uzFQI?t=1411
+<!-- #### Presentation day
+  https://youtu.be/H3xxE3uzFQI?t=1411 -->
 
 #### Low-Fidelity Prototype
   https://www.figma.com/file/9uJ68rIGDXhyfjyaZo3mL1/Seedlers?node-id=0%3A1
@@ -28,8 +28,8 @@ This is an ongoing UX project to design an app that will let plant enthusiasts c
 #### Miro Board
   https://miro.com/app/board/o9J_ltb4wlM=/?share_link_id=487311014111
 
-### 10/27/2021
-Built the Presentation for Demo Day
+<!-- ### 10/27/2021
+Built the Presentation for Demo Day -->
 
 ### 10/27/2021
 Built the Wireframes for Plant-Sitting flow.
@@ -93,8 +93,8 @@ Look for potential volunteers in person to obtain more answers and insights.
 Setup a Google Form to make it available online. Started recruiting online volunteers.
 https://docs.google.com/forms/d/e/1FAIpQLSc06PteuH4msio_GrgMWsSAKQ4AUceDDeViGrUwp0ENCsGckw/viewform
 
-### 09/26/2021
-Setup the project in Asana
+<!-- ### 09/26/2021
+Setup the project in Asana -->
   
 ### 09/25/2021
 Elaborated the first version of survey questions. Ran a dry-run test with neighbors to get some insight and fine-tune the questions.
