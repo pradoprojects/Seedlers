@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">                                                             
-  <img height="50%" width="50%" src="https://github.com/pradoprojects/pradoprojects.github.io/blob/main/Seedlerslogo.png" alt="Seedlers Logo">
+  <img height="50%" width="50%" src="./Seedlerslogo.png" alt="Seedlers Logo">
 </div>  
 <br/>
 
