@@ -1,124 +1,83 @@
-# 📱 → 🥕 | Seedlers App
+# 🌱 Seedlers — Community Gardening App
 
 <br/>
+
 <div align="center">                                                             
   <img height="50%" width="50%" src="./Seedlerslogo.png" alt="Seedlers Logo">
 </div>  
+
 <br/>
 
-<section>
-<div>
+<div align="justify">
+
+## 🌿 Overview
+
+Seedlers is a UX concept project designed to connect plant enthusiasts through plant sharing, gardening activities, tips, and community interaction.
+
+The project explores how digital communities can support well-being, sustainability, and social connection through shared interest in plants and urban gardening.
+
 <br/>
-This is an ongoing UX project to design an app that will let plant enthusiasts connect and share cuttings/events/tips about their plants with other gardeners. The idea is to leverage users' well-being and environmentally sustainable attitudes by nurturing communities with a common interest in plants.
 
-### 10/29/2021
+## 🧠 UX Process
 
-<!-- #### Presentation day
-  https://youtu.be/H3xxE3uzFQI?t=1411 -->
+The project included:
 
-#### Low-Fidelity Prototype
-  https://www.figma.com/file/9uJ68rIGDXhyfjyaZo3mL1/Seedlers?node-id=0%3A1
+- user surveys and interviews
+- empathy mapping
+- pain-point analysis
+- feature prioritization
+- user flows
+- personas
+- wireframes
+- low-fidelity prototyping
 
-<!-- #### Comments start at minute 48:26
-  https://youtu.be/H3xxE3uzFQI?t=2906 -->
+<br/>
 
-#### Personas
-  https://github.com/pradoprojects/Seedlers/blob/main/PersonasSeedlers.pdf
-  
-#### Miro Board
-  https://miro.com/app/board/o9J_ltb4wlM=/?share_link_id=487311014111
+## 🪴 Main Features Explored
 
-<!-- ### 10/27/2021
-Built the Presentation for Demo Day -->
+- Plant sharing (“Seedlets”)
+- Plant-sitting support
+- Community interaction
+- Gardening events and tips
+- User onboarding and profile flows
 
-### 10/27/2021
-Built the Wireframes for Plant-Sitting flow.
+<br/>
 
-### 10/24/2021
-New refinements in the logo and build the landing page wireframe.
+## 📌 Selected Materials
 
-### 10/23/2021
-Reviewed the Seedlets from and Built the Wireframes for Seedlets flow.
+### 🎨 Low-Fidelity Prototype
+https://www.figma.com/file/9uJ68rIGDXhyfjyaZo3mL1/Seedlers?node-id=0%3A1
 
-### 10/21/2021
-Built the Wireframes for Seedlers flow and made refinements in the logo.
+<br/>
 
-### 10/20/2021
-Built the Wireframes for Seedlets flow and started to work in the logo.
+### 👥 Personas
+https://github.com/pradoprojects/Seedlers/blob/main/PersonasSeedlers.pdf
 
-### 10/18/2021
-Reviewed the sign-up/sign-in flow and built the wireframes for them.
+<br/>
 
-### 10/17/2021
-Built the personas to guide the wireframe definition
+### 🧩 Miro Board
+https://miro.com/app/board/o9J_ltb4wlM=/?share_link_id=487311014111
 
-### 10/16/2021
-Built the Seedlers flow and Plant-Sitting flow.
+<br/>
 
-### 10/15/2021
-Built the Seedlets flow.
-
-### 10/14/2021
-Built the Sign-up/Sign-in flow.
-
-### 10/13/2021
-Built the Features List.
-
-### 10/13/2021
-Built the Effort X Impact chart.
-
-### 10/12/2021
-Summarized the main problems to be solved based in the pain points.
-
-### 10/12/2021
-Summarized the main problems to be solved based in the pain points.
-  
-### 10/12/2021
-Identified the pain points.
-
-### 10/09/2021
-Built the Empathy map based on the notes.
-
-### 10/08/2021
-Coded the survey and interviews answers into Miro Board notes.
-
-### 10/02/2021
-Look for potential volunteers in person to obtain more answers and insights.
-
-<div align="center">                                                             
-  <img height="50%" width="50%" src="https://github.com/pradoprojects/Seedlers/blob/main/LiveSurvey.png" alt="Seedlers Logo">
-</div>  
-
-### 09/29/2021
-Setup a Google Form to make it available online. Started recruiting online volunteers.
+### 📋 Research Survey
 https://docs.google.com/forms/d/e/1FAIpQLSc06PteuH4msio_GrgMWsSAKQ4AUceDDeViGrUwp0ENCsGckw/viewform
 
-<!-- ### 09/26/2021
-Setup the project in Asana -->
-  
-### 09/25/2021
-Elaborated the first version of survey questions. Ran a dry-run test with neighbors to get some insight and fine-tune the questions.
+<br/>
 
+<div align="center">                                                             
+  <img height="50%" width="50%" src="https://github.com/pradoprojects/Seedlers/blob/main/LiveSurvey.png" alt="Seedlers survey">
+</div>  
 
+<br/>
 
+## 🚧 Development Highlights
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Conducted surveys and interviews with potential users
+- Organized insights through affinity mapping and empathy maps
+- Defined pain points and feature priorities
+- Built onboarding, sharing, and plant-sitting flows
+- Designed wireframes and low-fidelity prototypes
+- Iterated logo and landing page concepts
 
 </div>
-</section>
